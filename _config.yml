@@ -1,0 +1,32 @@
+# Your Name or Company
+title: groovypert
+
+# Description of your website. This is used for social sharing.
+description: tbd
+
+# A brief blurb about yourself
+content: tbd
+
+# Add your social links
+social:
+  - platform: naver.smartstore
+    url: tbd
+  - platform: ohou.se
+    url: tbd
+  - platform: 29cm
+    url: https://twitter.com/brianmaierjr
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
