@@ -1,20 +1,22 @@
 # Your Name or Company
-title: groovypert
+title: 
 
 # Description of your website. This is used for social sharing.
-description: tbd
+description:
 
 # A brief blurb about yourself
-content: tbd
+content: 
 
 # Add your social links
 social:
   - platform: naver.smartstore
-    url: tbd
+    url: https://smartstore.naver.com/
   - platform: ohou.se
-    url: tbd
+    url: https://ohou.se/
   - platform: 29cm
-    url: https://twitter.com/brianmaierjr
+    url: https://www.29cm.co.kr/home/
+  - platform: MUSINSA
+    url: https://www.musinsa.com/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
